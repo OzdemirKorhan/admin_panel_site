@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{a55b:function(e,t,a){"use strict";a.r(t);var n=a("7a23"),o={class:"login"},r=Object(n["h"])('<form action=""><label for="username">Kullanıcı adı</label><input id="username" type="text"><label for="password">Şifre</label><input id="password" type="password"><button>Giriş</button></form>',1),s=[r];function i(e,t){return Object(n["u"])(),Object(n["f"])("div",o,s)}var u=a("d959"),b=a.n(u);const l={},c=b()(l,[["render",i]]);t["default"]=c}}]);
+//# sourceMappingURL=about.0ee626ce.js.map
